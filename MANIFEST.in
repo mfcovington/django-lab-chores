@@ -1,0 +1,4 @@
+include LICENSE
+include README.rst
+recursive-include lab_chores/static *
+recursive-include lab_chores/templates *
